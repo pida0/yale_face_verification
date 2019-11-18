@@ -23,3 +23,7 @@ Using pretrained alxnet on yale dataset
 25 epochs  
 Training complete in 5m 15s  
 Best val Acc: 1.000000  
+![train acc](https://github.com/pida0/yale_face_verification/blob/master/result%20pic/train%20acc.png)
+![train loss]()
+![val acc]()
+![val loss]()
